@@ -8,7 +8,6 @@ public class Portal {
 		int a=2;
 		int b=13;
 		int e=6;
-		int g=8;
 		int d=5;
 	}
 
