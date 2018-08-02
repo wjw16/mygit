@@ -10,6 +10,8 @@ public class Portal {
 		int d=5;
 		int c=4;
 		int e=6;
+		int f=12;
+		int g=8;
 	}
 
 }
