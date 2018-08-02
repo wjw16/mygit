@@ -7,7 +7,7 @@ public class Portal {
 		System.out.println("我是A");
 		int a=2;
 		int b=13;
-		int e=6;
+		int e=61;
 		int d=5;
 	}
 
