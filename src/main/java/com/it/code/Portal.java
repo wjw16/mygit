@@ -5,7 +5,7 @@ public class Portal {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("我是A");
-		int a=12;
+		int a=2;
 		int b=13;
 		int d=5;
 		int f=6;
